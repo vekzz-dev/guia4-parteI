@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nombre": "Programación II",
+    "creditos": 4
+  },
+  {
+    "id": 2,
+    "nombre": "Base de Datos",
+    "creditos": 3
+  }
+]
